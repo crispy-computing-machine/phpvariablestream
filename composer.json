@@ -1,0 +1,7 @@
+{
+  "name": "crispy-computing-machine/phpvariablestream",
+  "description": "PHP Variable Stream",
+  "require": {
+    "php": ">=7.4"
+  }
+}
